@@ -23,7 +23,7 @@ This project is licensed under the MIT License.
 
 ### Chat Pages
 ![chatpage](screenshots/IMG-20240519-WA0011.jpg)
-![chatPage](screenshots/WhatsApp_Image2024-05-19at12.14.22_6c6ba2fc.jpg)
 
+### For more go to screenshots folder
 Developed by Sasanka Dissanayake
 5/19/2024
