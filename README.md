@@ -25,5 +25,5 @@ This project is licensed under the MIT License.
 ![chatpage](screenshots/IMG-20240519-WA0011.jpg)
 
 ### For more go to screenshots folder
-Developed by Sasanka Dissanayake
+Developed by Sasanka Dissanayake.
 5/19/2024
